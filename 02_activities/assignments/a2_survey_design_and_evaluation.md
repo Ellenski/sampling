@@ -85,12 +85,19 @@ Observational Units: The individuals at each grocery store that respond to the s
 9. Has the amount of time you spend listening to music on a daily basis increased, decreased or stayed the same from ten years ago?
 
 10. How do you most often discover new music to listen to?
+    
 a. New music is suggested to you by someone close to you (e.g. a friend, family member, a colleague, etc.)
+
 b. You hear new music on the radio
+
 c. New music is recommended to you through music streaming services (e.g. Spotify, Apple music, Youtube, etc.)
+
 d. You hear about new music via social media (e.g. Facebook, X, instagram, TikTok, etc.)
+
 e. You actively seek out new music  via electronic or in-person means (e.g.you look up new music  on the internet or attend music festivals and concerts of artists that are not well known to you)
+
 f. You do not often discover new music
+
 g. Other. Please specify ___________.
 
 
